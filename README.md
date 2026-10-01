@@ -54,8 +54,8 @@ v2.0  ✦  PREMIUM  EDITION
 ```bash
 pkg update -y
 pkg install python git -y
-git clone <your-repo-url>
-cd tech-master
+git clone https://github.com/TechMaster-official/FFinfo.git
+cd FFinfo
 python tech-master.py
 ```
 
@@ -67,8 +67,8 @@ python tech-master.py
 ### 🐧 Linux / 🍎 macOS
 
 ```bash
-git clone <your-repo-url>
-cd tech-master
+git clone https://github.com/TechMaster-official/FFinfo.git
+cd FFinfo
 python3 -m pip install -r requirements.txt
 python3 tech-master.py
 ```
@@ -76,8 +76,8 @@ python3 tech-master.py
 ### 🪟 Windows
 
 ```bat
-git clone <your-repo-url>
-cd tech-master
+git clone https://github.com/TechMaster-official/FFinfo.git
+cd FFinfo
 pip install -r requirements.txt
 python tech-master.py
 ```
